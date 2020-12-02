@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GadsProject</string>
+    <string name="leader">LEADER BOARD</string>
+    <string name="submit">SUBMIT</string>
+
 </resources>
